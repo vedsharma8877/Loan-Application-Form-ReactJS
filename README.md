@@ -29,3 +29,5 @@ Here I have used MaterialUI for the user interface, formik to handle form and yu
 I have created lots of components (like for every input field) which is not necessary we can create this whole form in a single component also.
 
 I haven't used class based components anywhere.
+
+One mistake here is everything is in index.js instead of app.js where it should have been.
